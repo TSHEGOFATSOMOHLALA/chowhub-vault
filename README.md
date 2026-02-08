@@ -2,7 +2,7 @@
 **Official Submission for the Nexmotion Technologies Skills Assessment**
 
 ## 🎯 The Vision
-ChowHub is a futuristic, security-first food marketplace prototype. The project explores the intersection of high-stakes security and daily convenience, reimagining the food-ordering process as a "Digital Vault" experience. Every interaction is designed to feel heavy, mechanical, and exclusive.
+ChowHub is a futuristic, security-first food marketplace prototype. The project explores the intersection of high-stakes security and daily convenience, reimagining the food-ordering process as a "Digital Vault" experience. . Every interaction is designed to feel deliberate, structured, and premium, emphasizing trust, control, and exclusivity while delivering something as simple as a meal.
 
 ## ✨ Premium Features
 - **Circular Security Dial:** A custom-engineered circular interface for PIN entry, providing a tactile, mechanical feel to digital security.
